@@ -16,9 +16,9 @@ O quarto projeto dessa maratona (5em5) de projetos é modelar um simples joguinh
 Este gancho personalizado foi modelado para estudar esse padrão arquitetônico.
 
 * useCharacter.ts contém alguns recursos:
-       * [] moveDown, moveUp, moveLeft, moveRight são responsáveis pelo movimento do personagem.
-       * [] side controla a posição do personagem
-       * [] x e y é a posição de um personagem em relação ao mapa criado.
+* [] moveDown, moveUp, moveLeft, moveRight são responsáveis pelo movimento do personagem.
+* [] side controla a posição do personagem
+* [] x e y é a posição de um personagem em relação ao mapa criado.
 
 ## Extra:
 
